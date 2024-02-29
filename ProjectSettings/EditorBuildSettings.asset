@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Relay/1.0.5/Simple Relay Sample (using UTP)/SimpleRelayUtp.unity
+    guid: 3573da1ccba6a412e965f523d689fbd6
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 866152c2e21f2c543b114ad8acd1faa0
   m_configObjects: {}
